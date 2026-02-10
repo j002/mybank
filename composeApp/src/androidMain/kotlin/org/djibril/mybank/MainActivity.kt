@@ -19,8 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         super.onCreate(savedInstanceState)
 
-        // --- Wiring DATA ---
-        val httpClient = createHttpClient(OkHttp.create()) // ta factory Ktor Android
+        val httpClient = createHttpClient(OkHttp.create())
         val service = BanksServiceImpl(client = httpClient)
         val dataSource = BanksDataSourceImpl(service)
         val repository = BanksRepositoryImpl(

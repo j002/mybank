@@ -33,7 +33,6 @@ fun SplashScreen(
         alpha.animateTo(1f, animationSpec = tween(1000))
         scale.animateTo(1f, animationSpec = tween(1000))
 
-        // garde un peu à l'écran
         delay(600)
 
         onFinished()
