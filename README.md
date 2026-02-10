@@ -149,6 +149,12 @@ Plateforme
 - Mode offline
 - Pagination des opérations
 
+### Démo Android
+
+https://github.com/user-attachments/assets/6ffee437-e9b0-4042-bd05-f02b9a962eac
+
+
+
 ### 👤 Auteur
 
 Djibril Diop
