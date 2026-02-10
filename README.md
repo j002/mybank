@@ -7,12 +7,11 @@ Le projet met l’accent sur :
 - des tests multiplateformes (commonTest)
 ###  🧱 Architecture
 Architecture inspirée de Clean Architecture / MVVM, adaptée au KMP.
+<img width="320" height="532" alt="Capture d’écran 2026-02-10 à 17 10 17" src="https://github.com/user-attachments/assets/5469719a-357e-4114-9141-49a1f28a688b" />
 
-![img.png](img.png)
 
 ### 🔁 Flux de données
-
-![img_1.png](img_1.png)
+<img width="256" height="332" alt="Capture d’écran 2026-02-10 à 17 11 36" src="https://github.com/user-attachments/assets/5bc52e1a-5398-44b2-93b2-0150d39d2386" />
 
 ### 📦 Couches en détail
 ### Domain
@@ -149,9 +148,15 @@ Plateforme
 - Mode offline
 - Pagination des opérations
 
-### Démo Android
+### Démo Android et Screen IOS
 
 https://github.com/user-attachments/assets/6ffee437-e9b0-4042-bd05-f02b9a962eac
+
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 17 - 2026-02-10 at 18 12 10" src="https://github.com/user-attachments/assets/49f3d11e-3d7c-4af1-b7b3-53460693e67c" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 17 - 2026-02-10 at 18 12 17" src="https://github.com/user-attachments/assets/a7743b7d-d5b6-42f8-b812-3d4507976163" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 17 - 2026-02-10 at 18 12 32" src="https://github.com/user-attachments/assets/8d0fe007-ad78-4736-9826-a5979b7dfcd6" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 17 - 2026-02-10 at 18 12 37" src="https://github.com/user-attachments/assets/fd2b9884-538a-455b-9caf-e91a14bbd158" />
+
 
 
 
