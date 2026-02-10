@@ -129,6 +129,19 @@ Plateforme
   - cache local
   - navigation plus complexe
 
+ ## ⚙️ CI / CD
+
+Une **CI GitHub Actions** est en place :
+
+- Lancement automatique sur chaque Pull Request
+- Étapes :
+  - Build du projet
+  - Exécution des tests
+- Le merge est **bloqué tant que la CI n’est pas verte**
+
+👉 Configuration via `.github/workflows/ci.yml`  
+👉 Branch protection activée (status checks requis)
+
 ###   📌 Choix techniques
 
 - Kotlin Multiplatform
